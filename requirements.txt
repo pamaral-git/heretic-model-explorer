@@ -1,0 +1,6 @@
+altair
+streamlit
+huggingface_hub
+pandas
+requests
+tenacity

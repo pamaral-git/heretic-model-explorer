@@ -1,0 +1,9 @@
+services:
+  explorer:
+    build: .
+    image: heretic-models-explorer:pr1
+    ports:
+      - "8501:8501"
+    environment:
+      - STREAMLIT_SERVER_HEADLESS=true
+    restart: unless-stopped
