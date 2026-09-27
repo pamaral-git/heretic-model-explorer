@@ -5,9 +5,11 @@
 > app_file: src/streamlit_app.py ;
 > license: wtfpl
 
-# Pull Request
+# Preview Version 
 
-> feat: enhance discovery + cache + comparison + add visuals + more ([c5a3505f2df7445adcf61799902d1506906cd645](https://huggingface.co/spaces/MuXodious/Heretic-Models-Explorer/commit/c5a3505f2df7445adcf61799902d1506906cd645))
+Hosted with Streamlit Cloud: https://heretic-model-explorer-preview.streamlit.app/
+
+`feat: enhance discovery + cache + comparison + add visuals + more` - [c5a3505f2df7445adcf61799902d1506906cd645](https://huggingface.co/spaces/MuXodious/Heretic-Models-Explorer/commit/c5a3505f2df7445adcf61799902d1506906cd645)
 
 **Core**
 * Parsing dates and unknown scopes upfront cuts startup time.
